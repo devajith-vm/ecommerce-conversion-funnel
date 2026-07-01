@@ -32,6 +32,6 @@ This project analyzes an e-commerce conversion funnel using SQL and Power BI. Th
 - sql_queries.sql
 - dataset.csv
 - README.md
-
+  
 ## Author
 *Devajith V M*
